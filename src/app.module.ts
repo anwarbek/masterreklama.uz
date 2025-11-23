@@ -7,4 +7,6 @@ import { AppService } from './app.service';
   controllers: [AppController],
   providers: [AppService],
 })
-export class AppModule {}
+console.log("ishladi");
+
+export class AppModule { }
